@@ -1,0 +1,16 @@
+{
+  "name": "com.unity.mobile.notifications.sample",
+  "displayName": "Mobile Notifications Sample",
+  "version": "2.0.2",
+  "unity": "2019.4",
+  "description": "Mobile Notifications package adds support for scheduling local repeatable or one-time notifications on iOS and Android.\n\nRequires iOS 10 and Android 5.1 or above.",
+  "keywords": [
+    "Android",
+    "iOS",
+    "Notifications",
+    "Mobile"
+  ],
+  "dependencies": {
+    "com.unity.mobile.notifications": "2.0.2"
+  }
+}
